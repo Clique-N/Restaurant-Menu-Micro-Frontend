@@ -7,37 +7,37 @@ export default function Menu () {
             name: "Acid Smash",
             description: "A smash burguer with a special sauce made of pickles",
             price: 19.99,
-            image: "/acid-smash.webp"
+            image: "http://localhost:3001/acid-smash.webp"
         },
         {
             name: "Smoky Pickle",
             description: "A smash burguer with a special sauce made of pickles and bacon",
             price: 24.99,
-            image: "/smoky-pickle.webp"
+            image: "http://localhost:3001/smoky-pickle.webp"
         },
         {
             name: "French Fries",
             description: "Crispy fries",
             price: 9.99,
-            image: "/french-fries.webp"
+            image: "http://localhost:3001/french-fries.webp"
         },
         {
             name: "Special Pickle Fries",
             description: "Crispy pickles fries with mayonnaise",
             price: 14.99,
-            image: "/pickle-fries.webp"
+            image: "http://localhost:3001/pickle-fries.webp"
         },
         {
             name: "Coke",
             description: "Classic Coke",
             price: 4.99,
-            image: "/coke.webp"
+            image: "http://localhost:3001/coke.webp"
         },
         {
             name: "Pepsi",
             description: "Classic Pepsi",
             price: 4.99,
-            image: "/pepsi.webp"
+            image: "http://localhost:3001/pepsi.webp"
         }
     ]
     

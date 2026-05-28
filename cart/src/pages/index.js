@@ -1,5 +1,9 @@
-export default function Home() {
+import Cart from "@/components/Cart";
+
+export default function Home () {
     return (
-        <h1>Cart working</h1>   
-    )
+      <>
+        <Cart/>
+      </>
+  );
 }
